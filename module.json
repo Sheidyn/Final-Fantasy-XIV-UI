@@ -1,0 +1,23 @@
+{
+	"id": "final-fantasy-xiv-ui",
+	"title": "Final Fantasy XIV UI",
+	"description": "Theme of FFXIV for Foundry. <p>*** Join the official Discord server: <a href=\"https://discord.gg/foundryvtt\"> Official Discord</a></p>",
+	"authors": [
+	  {
+		"name": "Seyren",
+		"email": "seyrenofficial@gmail.com",
+		"url": "https://twitter.com/S4Seyren",
+		"flags": {}
+	  }
+	],
+	"version": "1.0.0",
+	"compatibility": 
+	{
+		"minimum": "11",
+		"verified": "11"
+	},
+	"styles": 
+	[
+		"css/cursor.css"
+	]
+}
